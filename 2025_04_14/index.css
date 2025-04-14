@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Roboto;
+    src: url('fonts/Roboto.ttf');
+}
+
+h1 {
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+p {
+    font-weight: bolder;
+    font-family: Roboto;
+}
+
+li {
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+#toprow {
+    border: 4px 
+}
